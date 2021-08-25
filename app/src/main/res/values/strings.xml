@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tute3</string>
+    <string name="imageView" />
+    <string name="btn_takePhoto">Take a Photo</string>
+</resources>
